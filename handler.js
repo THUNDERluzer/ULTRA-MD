@@ -559,7 +559,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}&memberCount=${encodeURIComponent(
               nthMember.toString()
             )}&avatar=${encodeURIComponent(pp)}&background=${encodeURIComponent(
-              'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
+              'https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg'
             )}`
 
             try {
@@ -574,7 +574,7 @@ export async function participantsUpdate({ id, participants, action }) {
                     title: 'Global Bot',
                     body: 'Welcome to Group',
                     thumbnailUrl: welcomeApiUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+                    sourceUrl: 'https://wa.me/qr/P6WADRJOKAFUK1',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
@@ -616,7 +616,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}&memberCount=${encodeURIComponent(
               nthMember.toString()
             )}&avatar=${encodeURIComponent(pp)}&background=${encodeURIComponent(
-              'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
+              'https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg'
             )}`
 
             try {
@@ -631,7 +631,7 @@ export async function participantsUpdate({ id, participants, action }) {
                     title: 'Global Bot',
                     body: 'Goodbye from  Group',
                     thumbnailUrl: leaveApiUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+                    sourceUrl: 'https://wa.me/qr/P6WADRJOKAFUK1',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
