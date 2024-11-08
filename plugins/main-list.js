@@ -106,7 +106,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •listprem
 ◈ •list
 ◈ •mrcs
-◈ © GlobalTechInfo
+◈ © Panda
 ╰─────────❍` // Your bot menu message here
       break
       case 'aimenu':
