@@ -70,7 +70,7 @@ let str = `
 ◈┃• fancy2
 ◈┗━♪♪━★━☆━⦿
 
-© GlobalTechInfo
+© Panda
 
 > 💡 *_Remember, when in doubt, use ${usedPrefix}list or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
