@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923444844060';
+const defaultOwner = '94782543893';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
@@ -19,12 +19,12 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'ULTRA-MD';
-global.botNumber = '923051391007' //replace your bot number here
+global.botname = process.env.BOTNAME || 'Panda-MD';
+global.botNumber = '94782543893' //replace your bot number here
 
 global.mods = []
 global.prems = []
-global.allowed = ['923444844060', '923051391007']
+global.allowed = ['94782543893']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -41,7 +41,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://wa.me/qr/P6WADRJOKAFUK1'
 
 
 global.APIs = {
@@ -72,15 +72,15 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'GLOBAL-MD'
-global.author = 'GlobalTechInfo'
-global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/ULTRA-MD'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
-global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
+global.packname = 'Panda-MD'
+global.author = 'Hashan'
+global.menuvid = 'https://telegra.ph//file/fff37bbd3114a90f4a8fe.mp4'
+global.igfg = ' Follow on Instagram\nhttps://wa.me/qr/P6WADRJOKAFUK1'
+global.dygp = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.fgsc = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.fgyt = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.fgpyp = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.fglog = 'https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg'
 global.thumb = fs.readFileSync('./assets/qasim.jpg')
 
 global.wait = '⏳'
